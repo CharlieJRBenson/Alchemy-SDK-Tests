@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {    
+    "alchemy-sdk": "^2.0.0"
+  }
+}
